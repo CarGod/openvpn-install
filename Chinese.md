@@ -18,6 +18,24 @@ OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29
 
 **建议创建 Ubuntu 16.04 版本的主机。**
 
+### 使用
+
+一切安装完成后，需要把生成的证书文件从远程服务器下载到本地，就是 **.ovpn** 文件，然后使用对应平台的客户端，导入证书，连接即可。
+
+#### 客户端下载地址
+
+Mac: https://tunnelblick.net/downloads.html
+
+Windows: https://openvpn.net/index.php/open-source/downloads.html
+
+如果地址无法访问，可以在这里下载：
+
+Mac: https://github.com/CarGod/openvpn-install/blob/master/Tunnelblick_3.7.5a_build_5011.dmg
+
+Windows: https://github.com/CarGod/openvpn-install/blob/master/openvpn-2.4.5.zip 
+
+Android 或 iPhone 可以在应用市场搜索 OpenVPN 自己选择合适的下载。
+
 ### 捐赠
 
 如果你想要捐赠我，可以通过下面的PayPal连接，选择合适的金额，建议一次捐赠不要超过10美元： [PayPal](https://www.paypal.me/cargod)
