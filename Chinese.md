@@ -6,7 +6,7 @@ OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29
 即使你从来没有使用过OpenVPN，这个脚本也可以让你在一分钟之内在服务器上完成搭建。在没有这个脚本之前，我们可能需要一个多小时的搭建，搭建完成以后还可能存在各种各样的问题。有了这个脚本，这种痛苦再也不存在了，只需要根据提示，即可自动完成安装。
 
 ### 安装
-运行下面的命令，并根据命令行提示信息进行输入：
+在你的服务器的root权限运行下面的命令，并根据命令行提示信息进行输入：
 
 `wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh`
 
