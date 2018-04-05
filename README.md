@@ -1,6 +1,5 @@
 ## [中文文档](https://github.com/CarGod/openvpn-install/blob/master/Chinese.md)
 
-## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Debian, Ubuntu and CentOS.
 
 This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
@@ -14,6 +13,10 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 
 ### I want to run my own VPN but don't have a server for that
 You can get a little VPS from just $2.5/month at [Vultr](https://www.vultr.com/?ref=7137562).
+
+If you are in China, it is recommended that you create a Japanese host.
+
+**Suggest create Ubuntu 16.04 version.**
 
 ### Donations
 
