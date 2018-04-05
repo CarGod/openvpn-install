@@ -18,6 +18,24 @@ If you are in China, it is recommended that you create a Japanese host.
 
 **Suggest create Ubuntu 16.04 version.**
 
+### Use
+
+After everything is installed, you need to download the generated certificate file from the remote server to the local computer, which is the **.ovpn** file. Then use the client of the corresponding platform to import the certificate and connect it.
+
+#### Client Download Address
+
+Mac: https://tunnelblick.net/downloads.html
+
+Windows: https://openvpn.net/index.php/open-source/downloads.html
+
+If the address is inaccessible, you can download it here:
+
+Mac: https://github.com/CarGod/openvpn-install/blob/master/Tunnelblick_3.7.5a_build_5011.dmg
+
+Windows: https://github.com/CarGod/openvpn-install/blob/master/openvpn-2.4.5.zip
+
+Android or iPhone can search OpenVPN in the app market to choose the right download.
+
 ### Donations
 
 If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.me/cargod)
