@@ -32,7 +32,7 @@ If the address is inaccessible, you can download it here:
 
 Mac: https://github.com/CarGod/openvpn-install/blob/master/Tunnelblick_3.7.5a_build_5011.dmg
 
-Windows: https://github.com/CarGod/openvpn-install/blob/master/openvpn-2.4.5.zip
+Windows: https://github.com/CarGod/openvpn-install/blob/master/openvpn-install-2.4.5-I601.exe
 
 Android or iPhone can search OpenVPN in the app market to choose the right download.
 
